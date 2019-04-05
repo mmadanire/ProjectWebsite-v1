@@ -260,6 +260,14 @@ div.right {
   /* -ms-transform: translate(-50%,-50%); */
 }
 
+button.unmute {
+  width: 25;
+  height: 22;
+  border: none;
+  background-color: #f9f8fd
+  align= left;
+}
+
 /* SLIDES */
 
 div.projects-wrapper {
